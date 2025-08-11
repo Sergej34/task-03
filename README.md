@@ -79,3 +79,5 @@ git push origin main --force - удалится удалённо
 ### REVERT
 git revert <хэш коммита> --edit -n
 git commit -m 'сообщение'
+
+# ERROR
